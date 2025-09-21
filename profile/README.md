@@ -61,7 +61,6 @@ npm run dev
 ```
 ### 2. OpenAI API Backend (Python + Flask)
 ```bash
-Copy code
 git clone https://github.com/HoooHacks/OpenAI_api_backend
 cd OpenAI_api_backend
 pip install -r requirements.txt
@@ -69,7 +68,6 @@ python app.py
 ```
 ### 3. Main Backend (Java + Spring Boot + SQLite)
 ```bash
-Copy code
 git clone https://github.com/HoooHacks/back-end
 cd back-end
 ./mvnw spring-boot:run
@@ -78,9 +76,7 @@ cd back-end
 Make sure you have Docker installed, then run:
 
 ```bash
-Copy code
 docker run -d --name sonarqube -p 9000:9000 sonarqube
-SonarQube will be available at http://localhost:9000.
 ```
 ### 5. Environment Variables
 Configure Auth0 credentials in both frontend and backend.
