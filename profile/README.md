@@ -95,8 +95,11 @@ Run the frontend with npm run dev.
 Log in with Auth0 and begin analyzing/competing against the AI.
 
 👥 Contributors
+
 Yunki Cho
+
 Hyun Lee
+
 Yoon Lee
 
 📜 License
