@@ -32,10 +32,10 @@ CodeMate is a personal AI-powered code mentor designed to help developers analyz
 ---
 
 ## 📸 Demo Screenshots
-![CodeMate Dashboard](.codemate1.jpg)
-![CodeMate GitHub Setup](.codemate2.jpg)
-![CodeMate Analyze](.codemate3.jpg)
-![CodeMate CompeteAI](.codemate4.jpg)
+![CodeMate Dashboard](./codemate1.jpg)
+![CodeMate GitHub Setup](./codemate2.jpg)
+![CodeMate Analyze](./codemate3.jpg)
+![CodeMate CompeteAI](./codemate4.jpg)
 
 ---
 
