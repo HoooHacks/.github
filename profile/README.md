@@ -13,7 +13,7 @@ CodeMate is a personal AI-powered code mentor designed to help developers analyz
   Challenge the AI in optimization battles where your code is judged against AI-generated alternatives. Build your ability to see optimization paths instantly.
 
 - **Gamified Learning**  
-  Track **winning streaks, stats, and progress** as you compete against yourself. *(Future: challenge friends in multiplayer competitions!)*
+  Track **winning streaks, stats, and progress** as you compete against yourself.
 
 ---
 
@@ -58,6 +58,7 @@ git clone https://github.com/HoooHacks/front-end
 cd front-end
 npm install
 npm run dev
+
 2. OpenAI API Backend (Python + Flask)
 bash
 Copy code
@@ -65,12 +66,14 @@ git clone https://github.com/HoooHacks/OpenAI_api_backend
 cd OpenAI_api_backend
 pip install -r requirements.txt
 python app.py
+
 3. Main Backend (Java + Spring Boot + SQLite)
 bash
 Copy code
 git clone https://github.com/HoooHacks/back-end
 cd back-end
 ./mvnw spring-boot:run
+
 4. SonarQube (Docker)
 Make sure you have Docker installed, then run:
 
